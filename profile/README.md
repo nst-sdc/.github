@@ -78,7 +78,7 @@ We love collaboration! Here’s how you can start contributing:
 
 ## 🌐 **Connect with Us**
 - **Website**: [NST SDC](https://nstsdc.org)
-- **LinkedIn**: [NST Student Developer Club](#)
+- **LinkedIn**: [NST Student Developer Club](https://www.linkedin.com/company/nst-sdc/)
 - **X.com**: [@NST_SDC](https://x.com/NSTSDC_)
 - **Instagram**: [@nst_sdc](#)
 - **Email**: contact@nstsdc.com
