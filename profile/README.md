@@ -1,17 +1,17 @@
-# 🚀 NST Student Developer Club (NST SDC)
+# NST Student Developer Club (NST SDC)
 
-Welcome to the official GitHub profile of the **NST Student Developer Club**! We're a vibrant community of tech enthusiasts, developers, and innovators striving to learn, build, and share amazing projects. 🌟
+Welcome to the official GitHub profile of the **NST Student Developer Club**! We're a vibrant community of tech enthusiasts, developers, and innovators striving to learn, build, and share amazing projects.
 
 This club is run by students from [Newton School of Technology (NST)](https://www.newtonschool.co/newton-school-of-technology-nst/home), a premier tech education platform that offers industry-relevant programs and mentorship to aspiring developers. We aim to provide a platform for students to collaborate, learn, and grow together in the tech space.
 
 ---
 
-## 🏆 **Our Mission**
+##  **Our Mission**
 To foster a culture of **collaboration, innovation, and open-source contributions** among students, preparing them to excel in real-world challenges and make a mark in the tech industry.
 
 ---
 
-## 💡 **What We Do**
+## **What We Do**
 - **Open-Source Projects**: Build and contribute to impactful projects.
 - **Workshops & Webinars**: Learn the latest tech trends and tools.
 - **Competitions & Hackathons**: Showcase skills and solve real-world problems.
@@ -20,25 +20,25 @@ To foster a culture of **collaboration, innovation, and open-source contribution
 
 ---
 
-## 📚 **Our Initiatives**
-### 🎯 **Hacktoberfest**
+##  **Our Initiatives**
+###  **Hacktoberfest**
 - Encouraging contributions to open-source projects.
 - Hosting internal events and workshops for beginners.
   
-### 🌍 **Google Summer of Code (GSoC) Preparation**
+### **Google Summer of Code (GSoC) Preparation**
 - Guiding students to contribute to open-source projects.
 - Focused mentorship for writing quality code.
 
-### 🖥️ **Student Projects**
+### **Student Projects**
 - Showcase projects created by our members.
 - Promote collaboration and idea exchange.
 
-### 💻 **Coding Competitions**
+### **Coding Competitions**
 - Organizing coding challenges to improve problem-solving skills.
 
 ---
 
-## 🌟 **How to Get Involved**
+## **How to Get Involved**
 ### As a Member:
 1. **Join Us**: Stay updated with club activities through our community channels.
 2. **Collaborate**: Contribute to ongoing projects or propose new ideas.
@@ -51,14 +51,14 @@ To foster a culture of **collaboration, innovation, and open-source contribution
 
 ---
 
-## 🎉 **Highlights**
+## **Highlights**
 - **Active Members**: 100+ student developers.
 - **Projects**: Covering web development, mobile apps, AI/ML, and more.
 - **Achievements**: Contributions to open source, hackathon wins, and industry-ready skills.
 
 ---
 
-## 🛠️ **Our Tech Stack**
+##  **Our Tech Stack**
 We work across a wide range of technologies:
 - **Frontend**: HTML, CSS, JavaScript, React, Vue.js
 - **Backend**: Node.js, Django, Flask
@@ -68,7 +68,7 @@ We work across a wide range of technologies:
 
 ---
 
-## 🤝 **Contribute to Our Projects**
+## **Contribute to Our Projects**
 We love collaboration! Here’s how you can start contributing:
 1. **Explore our repositories** for beginner-friendly issues (`good first issue`).
 2. **Follow our contribution guidelines** provided in the respective repositories.
@@ -76,7 +76,7 @@ We love collaboration! Here’s how you can start contributing:
 
 ---
 
-## 🌐 **Connect with Us**
+## **Connect with Us**
 - **Website**: [NST SDC](https://nstsdc.org)
 - **LinkedIn**: [NST Student Developer Club](https://www.linkedin.com/company/nst-sdc/)
 - **X.com**: [@NST_SDC](https://x.com/NSTSDC_)
@@ -85,7 +85,7 @@ We love collaboration! Here’s how you can start contributing:
 
 ---
 
-## 🎓 **Our Philosophy**
+## **Our Philosophy**
 > "The best way to learn is by doing, and the best way to grow is by sharing."
 
-Let’s code, create, and contribute to make a difference! 🚀
+Let’s code, create, and contribute to make a difference! 
